@@ -1,8 +1,11 @@
 ## Hello there 👋
-### Visit Site: [abhishek-gurung](https://abhishek-gurung.github.io/portfolio/)
-<br>
+### Visit Site: [&#60;abhishek-gurung/&#62;](https://abhishek-gurung.github.io/portfolio/)  
 
-#### Donation to poor <coder>: [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width=100/>](https://paypal.me/abhishekgurung)
+#### Donation to poor <coder>: 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width=80/>](https://paypal.me/abhishekgurung) 
+
+[<img src="https://abhishek-gurung.github.io/portfolio/assets/png/upi.png" width=70/>](https://abhishek-gurung.github.io/portfolio/assets/jpeg/qrcodejpg)
+
 <!--
 **Abhishek-Gurung/abhishek-gurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
